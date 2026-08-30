@@ -9,7 +9,11 @@ Weekly_Contest_515 weekly_Contest_515 = new Weekly_Contest_515();
 //weekly_Contest_515.MaximumGap("aa", "aaaa");
 
 Weekly_Contest_516 weekly_Contest_516 = new Weekly_Contest_516();
-weekly_Contest_516.FindDisappearedNumbers([567, 616, 615, 739], 613, 619);
+//weekly_Contest_516.FindDisappearedNumbers([567, 616, 615, 739], 613, 619);
+
+
+Weekly_Contest_517 weekly_Contest_517 = new Weekly_Contest_517();
+weekly_Contest_517.CountSpecialIntegers([9, 62, 62, 75, 75, 75, 96, 96, 96, 96, 96, 96, 96, 96, 9, 9, 9, 9, 9, 75, 75, 75, 9, 9]);
 
 Biweekly_Contest_189 biweekly_Contest_189 = new Biweekly_Contest_189();
 //biweekly_Contest_189.P1_ElevatorRequests(3, [2,0,0]);
