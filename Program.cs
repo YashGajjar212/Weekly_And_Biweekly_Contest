@@ -19,6 +19,12 @@ Weekly_Contest_518 weekly_Contest_518 = new Weekly_Contest_518();
 //weekly_Contest_518.CountRotations("aab", 1);
 //weekly_Contest_518.CountGroups([1, 5, 6, 20], [4, 3, 2, 3], 1);
 
+Weekly_Contest_519 weekly_Contest_519 = new Weekly_Contest_519();
+//weekly_Contest_519.MinOperations([10, 12, 14, 16]);
+
+Weekly_Contest_520 weekly_Contest_520 = new Weekly_Contest_520();
+weekly_Contest_520.CountIntersectingIntervals([[97, 100], [61, 61]]);
+
 Biweekly_Contest_189 biweekly_Contest_189 = new Biweekly_Contest_189();
 //biweekly_Contest_189.P1_ElevatorRequests(3, [2,0,0]);
 //biweekly_Contest_189.P2_MinOperations("yb");
@@ -26,7 +32,7 @@ Biweekly_Contest_189 biweekly_Contest_189 = new Biweekly_Contest_189();
 
 Biweekly_Contest_191 biweekly_Contest_191 = new Biweekly_Contest_191();
 //biweekly_Contest_191.CountSpecialIntegers([8, 6, 6, 8, 8]);
-biweekly_Contest_191.MinDays(9);
+//biweekly_Contest_191.MinDays(9);
 
 var app = builder.Build();
 app.Run();
